@@ -1,1 +1,1 @@
-Now that we’ve initialized Git, let’s add a few files to our repository.
+2. Now that we’ve initialized Git, let’s add a few files to our repository. 2.1. Good by, baby!
