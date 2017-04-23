@@ -1,3 +1,4 @@
 1. Never edit any files in the .git directory.
 2. Let’s make some changes to the files and see how Git reacts.
+3. Abc.
 
